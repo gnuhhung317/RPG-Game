@@ -14,8 +14,8 @@ Cuộc chiến sinh tồn là một game đơn giản được phát triển b�
 Trước tiên, bạn cần clone repository từ GitHub về máy tính của mình:
 
 ```bash
-git clone git@github.com:ankahngg/oop.git
-cd oop
+git clone git@github.com:gnuhhung317/RPG-Game.git
+cd RPG-Game
 ```
 ### Sử dụng Gradle để build dự án
 Dự án này đã đi kèm với Gradle Wrapper, bạn có thể sử dụng nó để build dự án mà không cần cài đặt Gradle riêng.
